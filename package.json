@@ -1,7 +1,7 @@
 {
   "name": "stanford-cardinal-theme-ui",
   "theme": "ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Stanford-based theme for Atom",
   "keywords": [
     "ui",
