@@ -1,4 +1,4 @@
-# Stanford Cardinal UI theme
+# Stanford Cardinal UI Theme
 
 A Stanford-based Atom theme
 
